@@ -1,1 +1,1 @@
-Basic nodejs and MongoDB project with full JWT authentication and basic ecommerce functionality
+Basic nodejs API with MongoDB, full JWT authentication and basic ecommerce functionality
